@@ -10,7 +10,7 @@ on:
       agent_description:
         description: 'NisaNurAzizah'
         required: true
-        default: 'NisaNurAzixah AI Agent'
+        default: 'NisaNurAzizah AI Agent'
 
 jobs:
   verify:
